@@ -15,7 +15,7 @@
 
 ## Skills
 - ***Language*** : Html | CSS | Javascript | Typescript | Dart
-- ***Frameworks & Libraries*** : Bootstrap | Tailwind CSS | React | Flutter | Node.js
+- ***Frameworks & Libraries*** : Bootstrap | Tailwind CSS | React Js | Flutter | Node.js
 - ***Tools*** : Git | MongoDb
 ---
 
